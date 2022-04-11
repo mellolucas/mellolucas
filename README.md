@@ -11,43 +11,43 @@
 <div align="center">
   <a href="https://www.goodreads.com/lucasmello">
     <img
-      src="https://badgen.net/badge/icon/goodreads?icon=goodreads&label&color=372213"
+      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-goodreads.svg"
       alt="Goodreads profile badge"
     />
   </a>
   <a href="https://www.linkedin.com/in/lufom">
     <img
-      src="https://badgen.net/badge/icon/linkedin?icon=linkedin&label&color=0a66c2"
+      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-linkedin.svg"
       alt="Linkedin profile badge"
     />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=lufom">
     <img
-      src="https://badgen.net/badge/icon/twitter?icon=twitter&label&color=1da1f2"
+      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-twitter.svg"
       alt="Twitter profile badge"
     />
   </a>
   <a href="https://tryhackme.com/p/lufom">
     <img
-      src="https://badgen.net/badge/icon/tryhackme?icon=tryhackme&label&color=c11111"
+      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-tryhackme.svg"
       alt="TryHackMe profile badge"
     />
   </a>
   <a href="https://developers.google.com/profile/u/lufom">
     <img
-      src="https://badgen.net/badge/icon/google-developers?icon=google-developers&label&color=f9bc04"
+      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-google_developers.svg"
       alt="Google Developers profile badge"
     />
   </a>
   <a href="https://www.qwiklabs.com/public_profiles/d10be506-5c96-4b8d-86e7-70dd7aeb5910">
     <img
-      src="https://badgen.net/badge/icon/qwiklabs?icon=qwiklabs&label&color=f5a623"
+      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-qwiklabs.svg"
       alt="Qwiklabs profile badge"
     />
   </a>
   <a href="https://github.com/mellolucas">
     <img
-      src="https://badgen.net/badge/icon/github?icon=github&label&color=2d333b"
+      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-github.svg"
       alt="Github profile badge"
     />
   </a>
@@ -112,15 +112,23 @@
     <li>Plainly put: <em>I develop using the most appropriate tools for the given project</em>, <strong>learning them on demand</strong>. More than often, also <em>relearning</em> them on demand.</li>
   </ul>
   <br>
-  <blockquote><em>Ok, what about the <strong>Cloud DevSecOps</strong>? Is that even a job? Is this even a word?&#10068;</em></blockquote>
+  <blockquote><em>Ok, what about the <strong>Cloud DevSecOps</strong>? Is that even a job? Is this even a word&#10068;</em></blockquote>
   <ul>
     <li>Until someone comes up with a better name, it is a job, because someone has to do it.</li>
-    <li>From idea to production, the <abbr title="Information Technology">IT</abbr> lifecycle is composed by a myriad of small pieces and events that, once pulled together, exists as a true living organism. For lack of a better term, I call "<strong><dfn>DevSecOps Evangelist</dfn></strong>" the one who <em>orchestrates</em> this processes - the one who "spread the word".<br>
+    <li>From ideation to production, the <abbr title="Information Technology">IT</abbr> lifecycle is composed by a myriad of small pieces and events that, once pulled together, exists as a true living organism. For lack of a better term, I call "<strong><dfn>DevSecOps Evangelist</dfn></strong>" the one who <em>orchestrates</em> these processes and build a whole culture around them - the one who "spread the word".<br>
       My work is to <strong>orchestrate how the development will play out</strong>, making sure that the engines are in sync, while also placing myself on the remaining empty seats. Speaking of which, here is where I play my role as a full-stack developer.</li>
-    <li>And, yes, there is <strong>a <dfn title="Information Security">Sec</dfn>" in between</strong>. Rather than a tendency, <strong><dfn title="moving security sooner in the development process">shifting left on security</dfn></strong> is already a <em>vital part</em> within the technology industry.</li>
+    <li>And, yes, there is <strong>a "<dfn title="Information Security">Sec</dfn>" in between</strong>. Rather than a tendency, <strong><dfn title="moving security sooner in the development process">shifting left on security</dfn></strong> is already a <em>vital part</em> within the technology industry.</li>
     <li>An <dfn title="conducive to effective and adaptive teamwork, rooted in healthy culture and communication">Agile Environment</dfn> by itself is <em>no longer enough</em> to achieve excellency. To take full advantage of the agility and responsiveness it provides, the <em>development, security and operations</em> teams must march together throughout the entire <abbr title="Information Technology">IT</abbr> lifecycle. <em>Nowadays</em>, this means <strong>fully integrating <abbr title="Information Security">InfoSec</abbr></strong> into the processes and, furthermore, <strong>establishing <abbr title="Operations Security">OpSec</abbr> best-practices</strong> among everyone's playbook.</li>
     <li>Lastly, regarding <strong>the "<dfn title="Cloud Computing">Cloud</dfn>"</strong> part, well, <em>those who stay grounded soon shall be carried away be the wave</em>.</li>
     <li>Nonetheless, I'll list below some tools-of-choice I'm currently using or have used along the way, after all, for you to find me, I still have to spread some keywords around here.</li>
+  </ul>
+  <blockquote><em>No way! How do you even find the time to learn all these stuff, apply them and still keep up to date&#10068;</em></blockquote>
+  <ul>
+    <li>Again, one must must be relentlessly curious.</li>
+    <li>However, there is indeed a trick to effectively get all these things done:<br>
+       I enjoy coding, but just once. By wrapping my code around functional modules and leveraging on meta-programming, I spend less time with things I've already done and invest that time on learning.</li>
+    <li>Inevitably it comes to a point where most of the coding is actually refactoring. This is the sweet spot, inasmuch as each code refactoring emerges from discovering a better way to reach the same result.</li>
+    <li>Summing up: learning > refactoring > coding/implementing.</li>
   </ul>
 </details>
 <br>
@@ -157,6 +165,9 @@
 
       #### Workspaces
       ##### OS 
+
+
+      How do you
     -->
   </p>
 </details>
