@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://lufom.com">
     <img
-      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/images/cover-teal_round.png"
+      src="https://raw.githubusercontent.com/mellolucas/assets/main/images/cover-teal_round.png"
       alt="Profile cover picture"
       width="100%"
     />
@@ -11,43 +11,43 @@
 <div align="center">
   <a href="https://www.goodreads.com/lucasmello">
     <img
-      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-goodreads.svg"
+      src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-goodreads.svg"
       alt="Goodreads profile badge"
     />
   </a>
   <a href="https://www.linkedin.com/in/lufom">
     <img
-      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-linkedin.svg"
+      src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-linkedin.svg"
       alt="Linkedin profile badge"
     />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=lufom">
     <img
-      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-twitter.svg"
+      src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-twitter.svg"
       alt="Twitter profile badge"
     />
   </a>
   <a href="https://tryhackme.com/p/lufom">
     <img
-      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-tryhackme.svg"
+      src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-tryhackme.svg"
       alt="TryHackMe profile badge"
     />
   </a>
   <a href="https://developers.google.com/profile/u/lufom">
     <img
-      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-google_developers.svg"
+      src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-google_developers.svg"
       alt="Google Developers profile badge"
     />
   </a>
   <a href="https://www.qwiklabs.com/public_profiles/d10be506-5c96-4b8d-86e7-70dd7aeb5910">
     <img
-      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-qwiklabs.svg"
+      src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-qwiklabs.svg"
       alt="Qwiklabs profile badge"
     />
   </a>
   <a href="https://github.com/mellolucas">
     <img
-      src="https://raw.githubusercontent.com/mellolucas/dotfiles/main/assets/icons/badge-github.svg"
+      src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-github.svg"
       alt="Github profile badge"
     />
   </a>
@@ -153,7 +153,7 @@
         style="width: 200px;"
       />
     </a>
-    <!-- 
+    <!--
       #### Programming Languages
       By and large, on a daily basis I use multi-paradigm, general-purpose programming languages interchangeably.
       More specific:
@@ -164,7 +164,7 @@
       JavaScript and typescript to break stuff.
 
       #### Workspaces
-      ##### OS 
+      ##### OS
 
 
       How do you
