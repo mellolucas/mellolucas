@@ -9,43 +9,43 @@
   </a>  
 </div>
 <div align="center">
-  <a href="https://www.goodreads.com/lucasmello">
+  <a href="https://lufom.com/links/goodreads">
     <img
       src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-goodreads.svg"
       alt="Goodreads profile badge"
     />
   </a>
-  <a href="https://www.linkedin.com/in/lufom">
+  <a href="https://lufom.com/links/linkedin">
     <img
       src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-linkedin.svg"
       alt="Linkedin profile badge"
     />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=lufom">
+  <a href="https://lufom.com/links/twitter_follow">
     <img
       src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-twitter.svg"
       alt="Twitter profile badge"
     />
   </a>
-  <a href="https://tryhackme.com/p/lufom">
+  <a href="https://lufom.com/links/tryhackme">
     <img
       src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-tryhackme.svg"
       alt="TryHackMe profile badge"
     />
   </a>
-  <a href="https://developers.google.com/profile/u/lufom">
+  <a href="https://lufom.com/links/google_devs">
     <img
       src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-google_developers.svg"
       alt="Google Developers profile badge"
     />
   </a>
-  <a href="https://www.qwiklabs.com/public_profiles/d10be506-5c96-4b8d-86e7-70dd7aeb5910">
+  <a href="https://lufom.com/links/qwiklabs">
     <img
       src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-qwiklabs.svg"
       alt="Qwiklabs profile badge"
     />
   </a>
-  <a href="https://github.com/mellolucas">
+  <a href="https://lufom.com/links/github">
     <img
       src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-github.svg"
       alt="Github profile badge"
