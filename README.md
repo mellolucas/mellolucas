@@ -9,6 +9,12 @@
   </a>  
 </div>
 <div align="center">
+  <a href="https://stackshare.io/mellolucas/tools-of-choice">
+    <img
+      src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"
+      alt="Main Tech Stack"
+    />
+  </a>
   <a href="https://lufom.com/links/goodreads">
     <img
       src="https://raw.githubusercontent.com/mellolucas/assets/main/icons/badge-goodreads.svg"
