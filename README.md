@@ -79,14 +79,24 @@
 <br>
 <!-- Activity Cards -->
 <p align="center">
-  <a href="https://lufom.com">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=mellolucas&count_private=true&show_icons=true&hide=stars,issues&theme=tokyonight&locale=en"
-      alt="Lucas Mello's GitHub stats card"
-      title="GitHub Stats"
-      loading="lazy"
-      style="width: 400px;"
-    />
+  <a href="https://github.com/mellolucas">
+    <picture>
+      <source
+        srcset="https://lufom-readme-stats.vercel.app/api?username=mellolucas&show_icons=true&hide=stars,prs,contribs&show=prs_merged_percentage&theme=tokyonight&locale=en"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://lufom-readme-stats.vercel.app/api?username=mellolucas&show_icons=true&hide=stars,prs,contribs&show=prs_merged_percentage&locale=en"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://lufom-readme-stats.vercel.app/api?username=mellolucas&show_icons=true&hide=stars,prs,contribs&show=prs_merged_percentage&theme=tokyonight&locale=en"
+        alt="Lucas Mello's GitHub stats card"
+        title="GitHub Stats"
+        loading="lazy"
+        style="width: 400px;"
+      />
+    </picture>
   </a>
 </p>
 <br>
