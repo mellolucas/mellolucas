@@ -6,8 +6,8 @@
 <!-- Banner -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mellolucas/mellolucas/main/assets/cover-light-nobg.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mellolucas/mellolucas/main/assets/cover-dark-nobg.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark-nobg.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/cover-light-nobg.png">
   <img alt="profile-cover-image" src="https://raw.githubusercontent.com/mellolucas/mellolucas/main/assets/cover-light-nobg.png">
 </picture>
 
